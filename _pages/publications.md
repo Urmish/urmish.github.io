@@ -17,8 +17,8 @@ author_profile: true
 </ol>
 
  <h2>Publications</h2>
-				<ol reversed>
-				<h3>Workshop Publications</h3>
+<ol reversed>
+	<h3>Workshop Publications</h3>
 					<li> <i> Compressing Language Models using Doped Kronecker Products</i> (<b>On-device Intelligence Workshop</b>)<br> <b> Urmish Thakker </b>, Paul Whatmough, Matthew Mattina, Jesse Beu <br> On-device Intelligence Workshop at Third Conference on Machine Learning and Systems (MLSys), March 2020 <br> Links [<a href="https://research.fb.com/programs/on-device-intelligence-workshop/#Accepted_Submissions">Workshop</a>][<a href="https://arxiv.org/abs/2001.08896">Paper</a>]<br>
 					<br />
 					<li> <i> Benchmarking TinyML Systems: Challenges and Direction* </i> (<b>Benchmarking Machine Learning Workloads on Emerging Hardware Workshop</b>)<br> Colby Banbury , Vijay Janapa Reddi , Will Fu , Max Lam , Amin Fazel , Jeremy Holleman , Xinyuan Huang , Robert Hurtado , David Kanter , Anton Lokhmotov , David Patterson , Danilo Pau , Jeff Sieracki , Jae-Sun Seo , <b> Urmish Thakkar</b>, Marian Verhelst , Poonam Yadav  <br> First International Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware at Third Conference on Machine Learning and Systems (MLSys), March 2020 <br>*As part of the TinyML Performance Working Group<br>Links [<a href="https://memani1.github.io/challenge20/">Workshop</a>][<a href="https://arxiv.org/abs/2003.04821v1">Paper</a>]<br>
@@ -69,4 +69,4 @@ author_profile: true
 					tinyML Summit, Mar. 2019. <br>
 					Links [<a href="https://tinymlsummit.org/2019/">Workshop</a>][<a href="https://tinymlsummit.org/2019/abstracts/Thakker_Urmish_poster.pdf">Paper</a>]<br>
 					<br />
-				</ol>
+</ol>
