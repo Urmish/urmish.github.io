@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+ You can also find my articles on <u><a href="https://scholar.google.com/citations?user=-GPPICQAAAAJ&hl=en">Google Scholar</a>.</u>
+
 <h2>Papers Under Review</h2>
 		
 <ol>
@@ -70,9 +70,3 @@ author_profile: true
 					Links [<a href="https://tinymlsummit.org/2019/">Workshop</a>][<a href="https://tinymlsummit.org/2019/abstracts/Thakker_Urmish_poster.pdf">Paper</a>]<br>
 					<br />
 				</ol>
-	
-<! –– {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}-->
