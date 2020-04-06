@@ -9,13 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 <h2>Papers Under Review</h2>
-				Conference - 
-				<ol>
-					<li> Ternary MobileNets via Per-Layer Hybrid Filter Banks (3rd Author)</li>
-					<li> Federated Learning for Resource-Constrained IoT Devices:Panoramas and State-of-the-art (2nd Author) </li>
+		
+<ol>
+	<li> Ternary MobileNets via Per-Layer Hybrid Filter Banks (3rd Author)</li>
+	<li> Federated Learning for Resource-Constrained IoT Devices:Panoramas and State-of-the-art (2nd Author) </li>
 					
-				</ol>
-			<hr>
+</ol>
+
  <h2>Publications</h2>
 				<ol reversed>
 				<h3>Workshop Publications</h3>
@@ -71,7 +71,7 @@ author_profile: true
 					Links [<a href="https://tinymlsummit.org/2019/">Workshop</a>][<a href="https://tinymlsummit.org/2019/abstracts/Thakker_Urmish_poster.pdf">Paper</a>]<br>
 					<br />
 				</ol>
-	<hr>
+	
 <! –– {% include base_path %}
 
 {% for post in site.publications reversed %}
