@@ -8,9 +8,72 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-{% include base_path %}
+<h2>Papers Under Review</h2>
+				Conference - 
+				<ol>
+					<li> Ternary MobileNets via Per-Layer Hybrid Filter Banks (3rd Author)</li>
+					<li> Federated Learning for Resource-Constrained IoT Devices:Panoramas and State-of-the-art (2nd Author) </li>
+					
+				</ol>
+			<hr>
+ <h2>Publications</h2>
+				<ol reversed>
+				<h3>Workshop Publications</h3>
+					<li> <i> Compressing Language Models using Doped Kronecker Products</i> (<b>On-device Intelligence Workshop</b>)<br> <b> Urmish Thakker </b>, Paul Whatmough, Matthew Mattina, Jesse Beu <br> On-device Intelligence Workshop at Third Conference on Machine Learning and Systems (MLSys), March 2020 <br> Links [<a href="https://research.fb.com/programs/on-device-intelligence-workshop/#Accepted_Submissions">Workshop</a>][<a href="https://arxiv.org/abs/2001.08896">Paper</a>]<br>
+					<br />
+					<li> <i> Benchmarking TinyML Systems: Challenges and Direction* </i> (<b>Benchmarking Machine Learning Workloads on Emerging Hardware Workshop</b>)<br> Colby Banbury , Vijay Janapa Reddi , Will Fu , Max Lam , Amin Fazel , Jeremy Holleman , Xinyuan Huang , Robert Hurtado , David Kanter , Anton Lokhmotov , David Patterson , Danilo Pau , Jeff Sieracki , Jae-Sun Seo , <b> Urmish Thakkar</b>, Marian Verhelst , Poonam Yadav  <br> First International Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware at Third Conference on Machine Learning and Systems (MLSys), March 2020 <br>*As part of the TinyML Performance Working Group<br>Links [<a href="https://memani1.github.io/challenge20/">Workshop</a>][<a href="https://arxiv.org/abs/2003.04821v1">Paper</a>]<br>
+					<br />
+					<li> <i>Pushing the limits of RNN Compression</i> (<b>NeurIPS-EMC2 2019</b>)<br><b>Urmish Thakker</b>, Igor Fedorov, Jesse Beu, Dibakar Gope, Chu Zhou, Ganesh Dasika and Matthew Mattina <br> 
+5th Workshop on Energy Efficient Machine Learning and Cognitive Computing, Co-located with the 33rd Conference on Neural Information Processing Systems (NeurIPS), Dec. 2019. <br>
+					Links [<a href="https://www.emc2-workshop.com/neurips-19">Workshop</a>][<a href="https://arxiv.org/abs/1910.02558">Paper</a>]<br>
+					<br />
+					<li> <i>Skipping RNN State Updates without Retraining the Original Model*</i> (<b>SenSys-ML 2019</b>)<br>
+					Jin Tao, <b>Urmish Thakker</b>, Ganesh Dasika, Jesse Beu <br> 
+					1st Workshop on Machine Learning on Edge in Sensor Systems (Sensys-ML), Co-located with 17th ACM Conference on Embedded Networked Sensor Systems (SenSys 2019), Nov. 2019<br>
+					Links [<a href="https://sensysml.github.io/index">Workshop</a>][<a href="https://dl.acm.org/citation.cfm?id=3362965">Paper</a>]<br>
+					*Won the best paper award<br>
+					<br />
+					<li> <i>Run-Time Efficient RNN Compression for Inference on Edge Device</i> (<b>ISCA-EMC2 2019</b>)<br>
+					<b>Urmish Thakker</b>, Jesse Beu, Dibakar Gope, Ganesh Dasika and Matthew Mattina <br>
+					4th Workshop on Energy Efficient Machine Learning and Cognitive Computing for Embedded Applications (EMC2), Co-located with the 46th Int. Symp on Computer Architecture (ISCA), Jun. 2019. <br>
+					Links [<a href="https://www.emc2-workshop.com/isca-19">Workshop</a>][<a href="https://arxiv.org/abs/1906.04886">Paper</a>]<br>
+					<br />
+					<li> <i>A Static Analysis-based Cross-Architecture Performance Prediction Using Machine Learning </i> (<b>ISCA-AIDArc 2019</b>)<br>
+					Newsha Ardalani, <b>Urmish Thakker</b>, Aws Albarghouthi, Karu Sankaralingam <br>
+					2nd International Workshop on AI-assisted Design for Architecture co-located with 46th Int. Symposium on Computer Architecture (ISCA), Jun. 2019<br>
+					Links [<a href="https://eecs.oregonstate.edu/aidarc/">Workshop</a>][<a href="https://arxiv.org/abs/1906.07840">Paper</a>]<br>
+					<br />
+					
+					<li> <i>Measuring scheduling efficiency of RNNs for NLP applications</i> (<b>ISPASS-Fasthpath 2019</b>)<br>
+					<b>Urmish Thakker</b>, Ganesh Dasika, Jesse Beu, Matthew Mattina <br>
+					6th edition of International Workshop on Performance Analysis of Machine Learning Systems (Fastpath) co-located with IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), March 2019. <br>
+					Links [<a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=9888">Workshop</a>][<a href="https://arxiv.org/abs/1904.03302">Paper</a>]<br>
+					<br />
+				<h3>Technical Report/Arxiv Preprints</h3>
+					<li> <i> Compressing RNNs for IoT devices by 15-38x using Kronecker Products </i> <br> <b>Urmish Thakker</b>, Jesse Beu, Dibakar Gope, Chu Zhou, Igor Fedorov, Ganesh Dasika and Matthew Mattina <br> 
+					[<a href="https://arxiv.org/abs/1906.02876">Technical Report</a>] <br>
+					<br />
+					<li> <i> Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art </i> <br> Ahmed Imteaj, <b>Urmish Thakker</b>, Shiqiang Wang, Jian Li and M. Hadi Amini <br>
+					[<a href="https://arxiv.org/abs/2002.10610">Survey Paper</a>] <br>
+					<br />
+				<h3>Extended Abstracts/ Posters</h3>
+					<li> <i> Improving accuracy of neural networks compressed using fixed structures via doping </i> (<b>tinyML 2020</b>)<br> <b> Urmish Thakker </b>, Ganesh Dasika, Paul Whatmough, Matthew Mattina, Jesse Beu <br> 
+					tinyML Summit 2020
+					[<a href="https://www.tinymlsummit.org/">Link to Summit</a>]<br>
+					<br />
+					<li> <i> Aggressive Compression of MobileNets Using Hybrid Ternary Layers </i> (<b>tinyML 2020</b>) <br> Dibakar Gope, Jesse Beu, <b> Urmish Thakker </b>, and Matthew Mattina <br> 
+					tinyML Summit 2020
+					[<a href="https://www.tinymlsummit.org/">Link to Summit</a>]<br>
+					<br />
+					<li> <i>RNN Compression using Hybrid Matrix Decomposition</i> (<b>tinyML 2019</b>)<br> 
+					<b>Urmish Thakker</b>, Ganesh Dasika, Jesse Beu, Dibakar Gope, and Matthew Mattina <br>
+					tinyML Summit, Mar. 2019. <br>
+					Links [<a href="https://tinymlsummit.org/2019/">Workshop</a>][<a href="https://tinymlsummit.org/2019/abstracts/Thakker_Urmish_poster.pdf">Paper</a>]<br>
+					<br />
+				</ol>
+	<hr>
+<! –– {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
