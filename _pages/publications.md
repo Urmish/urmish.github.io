@@ -42,8 +42,7 @@ author_profile: true
 					Newsha Ardalani, <b>Urmish Thakker</b>, Aws Albarghouthi, Karu Sankaralingam <br>
 					2nd International Workshop on AI-assisted Design for Architecture co-located with 46th Int. Symposium on Computer Architecture (ISCA), Jun. 2019<br>
 					Links [<a href="https://eecs.oregonstate.edu/aidarc/">Workshop</a>][<a href="https://arxiv.org/abs/1906.07840">Paper</a>]<br>
-					<br />
-					
+					<br />			
 					<li> <i>Measuring scheduling efficiency of RNNs for NLP applications</i> (<b>ISPASS-Fasthpath 2019</b>)<br>
 					<b>Urmish Thakker</b>, Ganesh Dasika, Jesse Beu, Matthew Mattina <br>
 					6th edition of International Workshop on Performance Analysis of Machine Learning Systems (Fastpath) co-located with IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), March 2019. <br>
