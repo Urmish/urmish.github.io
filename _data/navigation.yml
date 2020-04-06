@@ -1,22 +1,16 @@
 # main links links
 main:
+  - title: "Industry Experience"
+    url: /industry/
+    
+  - title: "Professional Experience"
+    url: /academic/
+    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Patents"
+    url: /patents/
 
-  - title: "Talks"
+  - title: "Talks & Media Articles"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
