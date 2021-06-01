@@ -11,4 +11,4 @@ author_profile: true
 </ol>
   
 <h2> Pending Patents </h2>
-6 patents currently under review at USPTO.
+4 patents currently under review at USPTO.
