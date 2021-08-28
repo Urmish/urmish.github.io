@@ -11,4 +11,9 @@ author_profile: true
 </ol>
   
 <h2> Pending Patents </h2>
-4 patents currently under review at USPTO.
+<ol>
+  <li> Hardware Accelerator for Natural Language Processing Applications (<a href="https://uspto.report/patent/app/20210248008">Link</a>) </li>
+  <li> Skip Predictor for Pre-Trained Recurrent Neural Networks (<a href="https://uspto.report/patent/app/20210056422">Link</a>) </li>
+</ol>
+
+2 more patents currently under review at USPTO.
