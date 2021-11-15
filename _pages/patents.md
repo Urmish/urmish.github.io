@@ -14,6 +14,7 @@ author_profile: true
 <ol>
   <li> Hardware Accelerator for Natural Language Processing Applications (<a href="https://uspto.report/patent/app/20210248008">Link</a>) </li>
   <li> Skip Predictor for Pre-Trained Recurrent Neural Networks (<a href="https://uspto.report/patent/app/20210056422">Link</a>) </li>
+  <li> Hybrid Memory Artificial Neural Network Hardware Accelerator (<a href="https://uspto.report/patent/app/20210295137">Link</a>) </li>
 </ol>
 
-2 more patents currently under review at USPTO.
+1 more patents currently under review at USPTO.
