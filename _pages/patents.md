@@ -15,3 +15,4 @@ author_profile: true
 </ol>
   
 <h2> Pending Patents </h2>
+<li> <a href="https://patents.google.com/patent/US20250061313A1/en"> Flexible Classes for Statically Compiled Classification Graphs </a> </li>
