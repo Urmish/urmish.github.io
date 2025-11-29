@@ -15,5 +15,14 @@ main:
   - title: "Patents"
     url: /patents/
 
-  - title: "Talks & Media Articles"
+  - title: "Talks"
     url: /talks/    
+
+  - title: "Media Coverage of Work"
+    url: /media/    
+
+  - title: "Open Source Contributions"
+    url: /open/  
+    
+  - title: "Blog Articles"
+    url: /blog/  
