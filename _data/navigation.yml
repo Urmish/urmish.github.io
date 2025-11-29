@@ -6,9 +6,6 @@ main:
   - title: "Industry Experience"
     url: /industry/
     
-  - title: "Academic Service"
-    url: /academic/
-    
   - title: "Publications"
     url: /publications/
     
@@ -18,11 +15,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Media Coverage of Work"
+  - title: "Media Coverage"
     url: /media/    
 
-  - title: "Open Source Contributions"
+  - title: "Open Source"
     url: /open/  
     
-  - title: "Blog Articles"
+  - title: "Blog"
     url: /blog/  
+
+  - title: "Academic Service"
+    url: /academic/
