@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p align="justify"> I am an ML Research & Engineering leader focused on translating cutting-edge AI research into high-impact, scalable products. Throughout my career, I’ve led large, multi-disciplinary organizations—spanning product, applied research, efficiency research, infrastructure, and agentic AI—to build and deploy large scale systems. These systems have served XXXM+ weekly requests and generated hundreds of millions in annual revenue.
 
-With 50+ publications, 6,700+ citations, and multiple patents across foundation models, efficient training, and high-performance inference, my work consistently bridges deep technical innovation with real-world deployment at scale. I’ve driven company-wide efficiency initiatives, developed models downloaded over 100 million times, and launched industry–academia collaborations with leading universities to advance the state of the art in generative AI.
+With 60+ publications, 7000+ citations, and multiple patents across foundation models, efficient training, and high-performance inference, my work consistently bridges deep technical innovation with real-world deployment at scale. I’ve driven company-wide efficiency initiatives, developed models downloaded over 100 million times, and launched industry–academia collaborations with leading universities to advance the state of the art in generative AI.
 
 I thrive on solving hard, high-leverage problems—from large-scale model training and architectural optimization to throughput-critical inference pipelines and cross-functional team leadership. I’ve been invited to speak at top AI conferences and universities, sharing insights on the future of generative models and production-grade AI systems.
 
